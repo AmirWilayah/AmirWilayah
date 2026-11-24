@@ -1,4 +1,4 @@
-## CVE List Found
+## CVEs
 ```
 CVE-2026-130065 - Heap Buffer Overflow from Cross-object Pointer Comparison in Msgpack-c
 CVE-2026-135168 - msgpack-c cpp-3.0.0 through cpp-9.0.0 Out-of-Bounds Read via Boost.X3 Parser
